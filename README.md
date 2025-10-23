@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zahra Hasan</h1>
 <h3 align="center">A passionate IT student | Building the Future, One Line at a Time</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 I’m an undergraduate at [SLIIT](SLIIT)
 
