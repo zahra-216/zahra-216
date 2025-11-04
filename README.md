@@ -16,17 +16,18 @@
 
 ### 🚀 Featured Projects
 
-**🚚 [Delivery Management System]([link-to-repo]((https://github.com/zahra-216/Seagills-Lanka))** - MERN Stack  
+**🚚 [Delivery Management System](https://github.com/zahra-216/Seagills-Lanka)** - MERN Stack  
 Comprehensive logistics platform with intelligent pre-order assignment using geolocation (5km radius routing), real-time tracking, and automated trip reporting.
 
-**💚 [ZenFlow]([link-to-repo](https://github.com/zahra-216/ZenFlow))** - Android (Kotlin)  
+**💚 [ZenFlow](https://github.com/zahra-216/ZenFlow)** - Android (Kotlin)  
 Wellness and habit tracker app featuring mood trend visualization, streak counters, background reminders, and local data persistence.
 
-**🩺 [Healthcare Web App MVP]([link-to-repo](https://github.com/zahra-216/HealthMitra))** - React  
+**🩺 [Healthcare Web App MVP](https://github.com/zahra-216/HealthMitra)** - React  
 Healthcare management solution developed during IntelliCon'25 hackathon.
 
-**🚗 [Vehicle Rental System]([link-to-repo](https://github.com/zahra-216/DriveSwift))** - Full Stack  
+**🚗 [Vehicle Rental System](https://github.com/zahra-216/DriveSwift)** - Full Stack  
 Rental management platform with booking workflows, real-time availability tracking, and payment processing.
+
 
 ---
 
