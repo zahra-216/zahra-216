@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Second-year IT student at [SLIIT](https://www.sliit.lk/) | Dean's List Recipient (Y1S2, Y2S1)
+- 🎓 Third-year IT student specializing in Data Science at [SLIIT](https://www.sliit.lk/) | Dean's List Recipient (Y1S2, Y2S1, Y2S2)
 - 💻 Full-stack developer specializing in **React**, **Node.js**, and **MERN stack**
 - 🌱 Currently expanding my skills in **Python** and exploring AI technologies
 - 🏆 Active hackathon participant (IntelliCon'25, Benchmark 3.0)
