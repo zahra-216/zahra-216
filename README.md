@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahra Hasan</h1>
-<h3 align="center">IT Undergraduate | Aspiring Full Stack Developer</h3>
+<h3 align="center">IT Undergraduate | Aspiring Software Engineer</h3>
 <p align="center">Building intuitive web applications and solving real-world problems through code</p>
 
 ---
@@ -7,8 +7,9 @@
 ### 👩‍💻 About Me
 
 - 🎓 Third-year IT student specializing in Data Science at [SLIIT](https://www.sliit.lk/) | Dean's List Recipient (Y1S2, Y2S1, Y2S2)
-- 💻 Full-stack developer specializing in **React**, **Node.js**, and **MERN stack**
-- 🌱 Currently expanding my skills in **Python** and exploring AI technologies
+- 💻 Full-stack developer working across the **MERN stack**, **React**, and **Spring Boot / Java**
+- 📊 Hands-on experience in **data engineering & BI** - ETL pipelines, data warehousing, and Power BI
+- 🌱 Currently expanding my skills in **Python** and keen to explore **AI/ML**
 - 🏆 Active hackathon participant (IntelliCon'25, Benchmark 3.0)
 - 📫 Reach me at **zahrahasan2163@gmail.com**
 
@@ -16,8 +17,14 @@
 
 ### 🚀 Featured Projects
 
+**🏫 [UniDesk – Smart Campus Operations Hub](https://github.com/zahra-216/it3030-paf-2026-smart-campus-group)** - Full Stack (React + Spring Boot)  
+Campus facility management platform with booking conflict detection, maintenance ticketing, role-based access control, and an admin analytics dashboard. Led a team of 4; built the dashboards, admin analytics, and authentication, plus OAuth2/JWT on the backend.
+
 **🚚 [Delivery Management System](https://github.com/zahra-216/Seagills-Lanka)** - MERN Stack  
-Comprehensive logistics platform with intelligent pre-order assignment using geolocation (5km radius routing), real-time tracking, and automated trip reporting.
+Comprehensive logistics platform with pre-order management, real-time truck tracking, and automated trip reporting. Built the truck logistics module full-stack.
+
+**📊 [Data Warehouse & BI Solution](https://github.com/zahra-216/data_warehouse-bi-superstore)** - Data Engineering  
+End-to-end pipeline on the Superstore Sales dataset — SSIS ETL, star schema warehouse (SCD Type 2), SSAS OLAP cube, and interactive Power BI dashboards.
 
 **💚 [ZenFlow](https://github.com/zahra-216/ZenFlow)** - Android (Kotlin)  
 Wellness and habit tracker app featuring mood trend visualization, streak counters, background reminders, and local data persistence.
@@ -27,7 +34,6 @@ Healthcare management solution developed during IntelliCon'25 hackathon.
 
 **🚗 [Vehicle Rental System](https://github.com/zahra-216/DriveSwift)** - Full Stack  
 Rental management platform with booking workflows, real-time availability tracking, and payment processing.
-
 
 ---
 
@@ -51,11 +57,17 @@ Rental management platform with booking workflows, real-time availability tracki
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-MS_SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Data & BI:**  
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SSIS](https://img.shields.io/badge/-SSIS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![SSAS](https://img.shields.io/badge/-SSAS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 **Mobile:**  
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -80,11 +92,5 @@ Rental management platform with booking workflows, real-time availability tracki
 ### 🤝 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/zahra-hasan-1b16392b0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/zahrahasan_21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="mailto:zahrahasan2163@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zahrahasan21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-
----
-
-<p align="center">💡 Always eager to collaborate on innovative projects and learn new technologies!</p>
