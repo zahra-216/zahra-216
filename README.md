@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahra Hasan</h1>
-<h3 align="center">IT Undergraduate | Aspiring Software Engineer</h3>
+<h3 align="center">IT Undergraduate | Full-Stack & Data Engineering</h3>
 <p align="center">Building intuitive web applications and solving real-world problems through code</p>
 
 ---
@@ -10,6 +10,7 @@
 - 💻 Full-stack developer working across the **MERN stack**, **React**, and **Spring Boot / Java**
 - 📊 Hands-on experience in **data engineering & BI** - ETL pipelines, data warehousing, and Power BI
 - 🌱 Currently expanding my skills in **Python** and keen to explore **AI/ML**
+- ⚙️ Currently learning **DevOps** and starting a hands-on project
 - 🏆 Active hackathon participant (IntelliCon'25, Benchmark 3.0)
 - 📫 Reach me at **zahrahasan2163@gmail.com**
 
